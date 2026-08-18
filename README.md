@@ -147,14 +147,16 @@ I use this repository to document my ongoing learning through practical exercise
 ### August 2026
 
 * Completed **30+ hours of SQL training**
-* Practiced SQL Server through hands-on exercises
-* Created multiple SQL Server practice files
+* Practiced **SQL Server** through hands-on exercises
+* Created multiple **SQL Server practice files**
 * Strengthened SQL fundamentals and advanced querying
-* Practiced joins, subqueries, CTEs, window functions, and other SQL concepts
+* Practiced **joins, subqueries, CTEs, window functions**, and other SQL concepts
 * Started building a SQL Server Data Warehouse
 * Practiced ETL, Medallion Architecture, dimensional modeling, and Star Schema concepts
+* Completed **HackerRank SQL (Intermediate) certification**
+* Solved SQL problems involving **JOINs, functions, and query-based problem solving**
 
-More learning progress will be added as I continue.
+> More learning progress will be added as I continue.
 
 ---
 
